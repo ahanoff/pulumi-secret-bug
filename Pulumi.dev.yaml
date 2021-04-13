@@ -1,0 +1,4 @@
+config:
+  aws:region: ap-southeast-1
+  pulumi-secret-bug:test:
+    secure: AAABAKx89xrXVKjPkHpkivyj1cjd2vtsizEr7tG2psGcam1WrCEhYLhmPxbCQFsAr73QlEAQ
